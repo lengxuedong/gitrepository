@@ -1,3 +1,3 @@
 # gitrepository
 
-<a href="www.baidu.com">百度</a>
+<a href="https://baidu.com">百度</a>
